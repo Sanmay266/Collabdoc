@@ -8,8 +8,7 @@ backend/workflow-engine/build/
 backend/workflow-engine/node_modules/
 
 frontend/node_modules/
-frontend/collabdoc-frontend/node_modules/
-frontend/collabdoc-frontend/dist/
+frontend/dist/
 
 .env
 .env.*
